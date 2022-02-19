@@ -1,0 +1,13 @@
+git add .
+
+git branch update_script
+
+git checkout update_script
+
+git push 
+
+git pull 
+
+git 
+
+git clone
